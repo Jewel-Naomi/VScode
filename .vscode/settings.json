@@ -1,0 +1,7 @@
+{
+    "editor.fontSize": 16,
+    "chat.editor.wordWrap": "on",
+    "editor.wordWrap": "on",
+    "editor.guides.bracketPairs": true,
+    "editor.guides.bracketPairsHorizontal": true
+}
